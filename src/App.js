@@ -13,7 +13,7 @@ class App extends Component {
                 </div>
                 <div className="game-info">
                     <div>{/* status */}</div>
-                    <ol>{/* TEST */}</ol>
+                    <ol>{/* TESTING */}</ol>
 
                 </div>
             </div>
